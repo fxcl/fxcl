@@ -21,5 +21,5 @@ Front-End Developer with over ten year of experience, skilled in data manipulati
 </p>
 
 <p align="center">
-    <img src="[https://skillicons.dev/icons?i=rust,svelte,bash](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true)" />
+    <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
